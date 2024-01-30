@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sahil-tech684
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m passionate about Data Science and curious to find data driven insights.
+- 🔍 Feels like a detective with a keyboard while finding hidden tales from Data. 
+- 🌱 I’m currently exploring field of Data professionals and growing day by day.
 - 📫 How to reach me : My mail- sahilkumarsingh8079@gmail.com
