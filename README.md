@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @Sahil-tech684
-- 👀 I’m passionate about Data Science, Machine learning and Deep learning and curious to find data driven insights.
-- 🔍 Feels like a detective with a keyboard while finding hidden tales from Data. 
-- 🌱 I’m currently exploring field of Data professionals and growing day by day.
-- 📫 How to reach me : My mail- sahilkumarsingh8079@gmail.com
+# Welcome to My GitHub Profile!
+
+Hey! Nice to see you.
+
+## I'm Sahil 😀, and I'm very passionate about Data Science. Below, you'll find an overview of my skills and some of the projects I've worked on.
+
+## My Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- SQL
+- Web Scraping
