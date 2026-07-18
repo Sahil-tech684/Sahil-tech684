@@ -1,24 +1,111 @@
-# 👋 Welcome to My GitHub Profile!
+# Hi there 👋 I'm Sahil Singh
 
-Hi there! I'm **Sahil Singh**, a passionate and detail-oriented **Data Analyst transitioning into Data Science**.  
+### 📊 Data Analyst | Python | Power BI | Aspiring Data Scientist
 
-I specialize in turning messy data into meaningful insights and building real-world ML solutions that drive decisions.
+I enjoy transforming raw data into actionable insights, automating repetitive workflows, and building solutions that solve real business problems.
 
----
-
-## 🚀 What I Do:
-- Analyze and visualize data to tell compelling stories
-- Build and deploy machine learning models for prediction and automation
-- Solve business problems using Python, Power BI, and ML pipelines
+With **2+ years of experience** as a Data Analyst, I've worked on interactive dashboards, reporting automation, web scraping, and business intelligence solutions. My current focus is expanding into Machine Learning and AI while continuing to build practical, end-to-end data projects.
 
 ---
 
-## 🧠 Skills & Tools:
-- **Languages & Tools**: Python, SQL, Power BI, Streamlit, Git
-- **Data Science**: Pandas, NumPy, Scikit-learn, XGBoost, SARIMAX
-- **Deep Learning**: TensorFlow, Keras, Transformers (HuggingFace)
-- **Web Scraping**: Scrapy, BeautifulSoup
-- **Other**: Data Cleaning, Feature Engineering, EDA, Time Series, NLP
+## 🚀 About Me
+
+* 📊 Data Analyst with 2+ years of industry experience
+* 🐍 Python developer focused on data automation
+* 📈 Power BI dashboard developer
+* 🗄️ SQL enthusiast
+* 🤖 Learning Machine Learning & Deep Learning
+* 🌱 Building projects to transition into Data Science
+* 💡 Always exploring better ways to automate data workflows
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* SQL
+
+### Data Analysis
+
+* Pandas
+* NumPy
+* Excel
+* Power Query
+
+### Visualization
+
+* Power BI
+* Matplotlib
+* Plotly
+
+### Web Scraping & Automation
+
+* Selenium
+* Scrapy
+* BeautifulSoup
+
+### Machine Learning
+
+* Scikit-learn
+* TensorFlow (Learning)
+* Keras (Learning)
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* MySQL
+
+---
+
+### 🤖 Python Automation
+
+* Data cleaning pipelines
+* Excel automation
+* Report generation
+* Workflow automation
+
+---
+
+### 🌐 Web Scraping
+
+* Selenium automation
+* Scrapy spiders
+* Dynamic website scraping
+* Data extraction pipelines
+
+---
+
+### 📊 Data Science Projects
+
+* Exploratory Data Analysis
+* Forecasting Models
+* Machine Learning
+* Statistical Analysis
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Python
+* Machine Learning
+* Deep Learning
+* Statistics
+* AI Frameworks
+* MLOps
+
+---
+
+## 🎯 2026 Goals
+
+* Build 20+ portfolio projects
+* Contribute to Open Source
+* Master Machine Learning
+* Learn Deep Learning
+* Land a Data Science role
 
 ---
 
