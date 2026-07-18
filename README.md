@@ -99,16 +99,6 @@ With **2+ years of experience** as a Data Analyst, I've worked on interactive da
 
 ---
 
-## 🎯 2026 Goals
-
-* Build 20+ portfolio projects
-* Contribute to Open Source
-* Master Machine Learning
-* Learn Deep Learning
-* Land a Data Science role
-
----
-
 ## 📌 Highlight Projects:
 - 🎯 [Automobile Sales Forecasting](https://github.com/Sahil-tech684/Automobile-Sales-Data-Analysis-Price-Prediction-and-Sales-Forecasting-Models.git) — ML + Time Series
 - 🎮 [Game Recommendation System](https://github.com/Sahil-tech684/Game_Recommendation_System.git) — NLP + Recommender + Streamlit App
